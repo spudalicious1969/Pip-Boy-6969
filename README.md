@@ -1,6 +1,7 @@
 # Pip-Boy 6969
 
-![screenshot.png](/Users/brentwatkins/Downloads/hold/pipboy/screenshot.png)
+![screenshot](https://user-images.githubusercontent.com/5025384/206265810-fdfbf51f-83c6-498c-adf8-223f271cda92.png)
+
 
 ## Description
 
@@ -215,8 +216,8 @@ Ok!  We're near the end now!
 - We can now run our new executable script `pipboy`  press ENTER and let it rip.
   
   
-  
-  ![screenshot-pipboy-start.png](/Users/brentwatkins/Downloads/hold/pipboy/screenshot-pipboy-start.png)
+  ![screenshot-pipboy-start](https://user-images.githubusercontent.com/5025384/206265945-bdbae230-c3b3-4e9d-8955-362323ca20f6.png)
+
 
 - At this point, you will want to adjust the font size by holding the CTRL button and pressing the +/- key.
 
@@ -237,4 +238,4 @@ You know I've made mistakes in all of this.   Give me a shout with any questions
 
 
 
-![screengif.gif](/Users/brentwatkins/Downloads/hold/pipboy/screengif.gif)
+
