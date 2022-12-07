@@ -197,7 +197,9 @@ I have included a very bare bones `tmux.conf` file for us to use, included in th
 
 Ok!  We're near the end now! 
 
-- Place the file `pipboy` found in this repository in your `/usr/local/bin` folder.  This is the same for both macos and wsl
+- Place the file `pipboy` found in this repository in your `/usr/local/bin` folder.  This is the same for both macos and wsl.   
+
+- Edit the file `pipboy` to reflect the correct path to your ascii art.
 
 - Make sure `pipboy` is owned by you.  
   
