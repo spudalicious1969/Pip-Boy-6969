@@ -1,0 +1,35 @@
+#!/bin/bash
+
+#Get rid of any .swp files that may be lingering for ascii art in vim
+
+rm -f /YOUR/PATH/TO/THE/ASCII/FILE/.*.swp
+
+# Create new session named "Pip-Boy"
+
+tmux new-session -s PipBoy -n Pip-Boy -d
+tmux select-window -t PipBoy:Pip-Boy
+
+# Create splits (must executed outside of the session)
+tmux split-window -v -t PipBoy
+tmux split-window -h -t PipBoy
+tmux split-window -v -t PipBoy
+
+# Load programs into panes
+tmux select-pane -t 0
+tmux send-keys -t PipBoy:Pip-Boy 'ccb' Enter
+tmux send-keys -t PipBoy:Pip-Boy 'musikcube' Enter
+
+tmux select-pane -t 1
+tmux send-keys -t PipBoy:Pip-Boy 'ccb' Enter
+tmux send-keys -t PipBoy:Pip-Boy 'vim /YOUR/PATH/TO/THE/ASCII/FILE/pipboy.txt' Enter
+
+tmux select-pane -t 2
+tmux send-keys -t PipBoy:Pip-Boy 'ccb' Enter
+tmux send-keys -t PipBoy:Pip-Boy 'unimatrix' Enter
+
+tmux select-pane -t 3
+tmux send-keys -t PipBoy:Pip-Boy 'ccb' Enter
+tmux send-keys -t PipBoy:Pip-Boy 'tty-clock -cb -C 2' Enter
+
+
+tmux attach-session -t PipBoy
