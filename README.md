@@ -81,7 +81,12 @@ The setup process for Windows is a bit more involved.  There are a couple things
 
 Everything from here out will run in any terminal emulator.  If for some reason Cool-Retro-Term flops entirely for you, you can still run all of this in any terminal emulator like Windows Terminal or PuTTY.   I beleive Windows Terminal even has some retro effects you can apply.
 
-### Music
+### Music. 
+
+**UPDATE**  -- I have started using [MPD](https://github.com/MusicPlayerDaemon/MPD) with [NCMPCPP](https://github.com/ncmpcpp/ncmpcpp).   I also run a music visualizer instead of unimatrix now.   [cava](https://github.com/karlstav/cava). 
+
+![Screenshot 2022-12-08 at 4 21 19 PM](https://user-images.githubusercontent.com/5025384/206587540-99a1f922-b795-48ac-8038-3609e840d15d.png)
+
 
 I use Musikcube.  Mostly because it is a pretty nice little command line music app that does support a mouse if we choose. 
 
