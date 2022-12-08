@@ -23,11 +23,11 @@ Easy as pie.  Just follow the instructions on the github page.
 
 The setup process for Windows is a bit more involved.  There are a couple things I will link below for Windows installation.   This may take some experimentation on your part but, worse case worst.   You ain't gonna break anything critical if it all goes bork.
 
-- * Install WSL2 (Windows Subsystem for Linux):* 
+- **Install WSL2 (Windows Subsystem for Linux):** 
   
   - [Run Linux GUI apps with WSL | Microsoft Learn](https://learn.microsoft.com/en-us/windows/wsl/tutorials/gui-apps)
 
-- * Install Cool-Retro-Term (Methods to try in preferred order)*
+- **Install Cool-Retro-Term (Methods to try in preferred order):**
   
   - *Install using Snap Store:*   WSL2 is now (supposedly) supporting linux GUI apps. If it is a perfect world you will install and instantly be able to run.
     
