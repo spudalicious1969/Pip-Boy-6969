@@ -87,7 +87,8 @@ I use Musikcube.  Mostly because it is a pretty nice little command line music a
 
 - Head on over to the Musikcube [releases page](https://github.com/clangen/musikcube/releases) .   If you are on a mac, just grab the mac version.   If on Windows, since we are building in WSL, I'm going out on a limb and say to download the .deb.
 
-- Mac install is very self evident.   WSL install
+- Mac install is very self evident.   
+- WSL install
   
   - ```bash
     sudo dpkg -i musikcube_x.y.z_ubuntu_xxx_amd64.deb
