@@ -105,7 +105,7 @@ I use Musikcube.  Mostly because it is a pretty nice little command line music a
     - I use this music to remain true to the project: - Fallout 4 OST (Diamond City radio station) 
     
     - I found it on SoulSeek cuz i'm shady. But you do you.
-    - Here is a youtube playlist with the same songs [FO4DCR](https://youtu.be/N7Fpp2VT5lk)    
+    - Here is a y[YouTube playlist](https://youtu.be/N7Fpp2VT5lk) with the same songs    
     - For color theme: Select "8 colors (compatability mode)" Other themes that utilize 256 colors will not display correctly in a monochrome session
 
 **Other Music Player Options:**  
